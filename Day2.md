@@ -1,7 +1,7 @@
 # Git & GitHub
 
 >### What is Git ?
-<p align="justify">Git is a free and open source distributed version control system. It is used to track changes in source code over time. It is a powerful tool for collaboration and version control.</p>
+<p align="justify"><a href="https://git-scm.com/"><u>Git</u></a> is a free and open source distributed version control system. It is used to track changes in source code over time. It is a powerful tool for collaboration and version control.</p>
 
 >### What is the use of GIT ?
 - Tracks Changes
@@ -17,7 +17,7 @@ Think of Git as a time machine for your code. You can:
  - Share your snapshots with others.
 
 >### What is GitHub ?
-GitHub is a platform that helps us store, share, and collaborate on projects that use Git for version.
+<a href="https://github.com"><u>GitHub</u></a> is a platform that helps us store, share, and collaborate on projects that use Git for version.
 
 >### What is the use of GitHub ?
 This __GitHub__ contains some useful features for the developers like:
