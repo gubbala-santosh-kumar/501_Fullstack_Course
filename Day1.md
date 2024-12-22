@@ -43,3 +43,8 @@ The `package.json` file is a JSON file that contains the complete information ab
    - Example: `"start" : "node index.js"` which is we can directly run the command `npm start` to run the project.
 4. __Others :__
    - It can also inculdes our project's license, author name, and other data.
+
+>### Code Quality using ESLint
+<p align="justify">Visual Studio Code providing many builtin features to increase the speed at which we write code. By installing the extensions that may help in code quality and readability.</p>
+
+- **ESLint** :<p align="justify">ESLint is a tool or Extenssion for the Visual Studio Code for identifying and reporting on problems patterns found in JavaScript it may helps to write the cde in propper manner aswell as it would be make sure useful to improve the quality of code while writing the code. If any error in the code it will directly shows that in the terminal.</p>
