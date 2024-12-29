@@ -49,3 +49,8 @@ __TDD is a cyclic process of (RED-GREEN-BLUE)__
 <p align="justify">
 Jest is a open-source JavaScript testing framework developed by Facebook. It is used to test the code written in Node.js, React, and other JavaScript frameworks. It is widely used for unit testing and integration testing of JavaScript code.
 </p>
+
+### Why testing ?
+<p align="justify">
+Testing is important because it helps identify and fix issues before they become major problems. Testing can be used in many contexts, including software development, education, and etc.
+</p>
